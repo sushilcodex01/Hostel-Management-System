@@ -11,6 +11,9 @@
 
 The Navadaya Girls Hostel Management System is a modern web-based platform designed to streamline administrative processes and enhance student experience through innovative digital solutions. Built with a robust architecture combining Flask backend and Firebase real-time database, this system offers comprehensive tools for hostel administration.
 
+## ✨ Demo = https://nghms.rf.gd/uploads/folder_1755182020/HostelGuard-1/index.html
+## ✨ Replit link = https://replit.com/@tewoji1179/HostelGuard-1
+
 ### ✨ Key Features
 
 - **🔐 Advanced Authentication System**
