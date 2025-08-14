@@ -61,8 +61,7 @@ The Navadaya Girls Hostel Management System is a modern web-based platform desig
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/navadaya-hostel-management.git
-   cd navadaya-hostel-management
+   https://github.com/sushilcodex01/Hostel-Management-System.git
    ```
 
 2. **Install dependencies**
